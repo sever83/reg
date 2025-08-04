@@ -1,4 +1,4 @@
-git clone https://github.com/viktor138irk/reg
+git clone https://github.com/sever83/reg
 
 chmod 666 /var/www/xlxd/reg/db.json
 
